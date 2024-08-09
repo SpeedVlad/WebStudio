@@ -1,0 +1,700 @@
+body {
+  position: relative;
+  width: 1600px;
+  height: 2346px;
+  background: #ffffff;
+  margin: 0px;
+}
+
+footer {
+  position: absolute;
+  width: 1600px;
+  height: 252px;
+  top: 2094px;
+  background: #2f303a;
+}
+
+span {
+  color: black;
+}
+
+.WebStudio_footer {
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 60px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+
+.div1 {
+  position: absolute;
+  width: 231px;
+  height: 81px;
+  left: 215px;
+  top: 111px;
+}
+
+.city {
+  position: absolute;
+  width: 231px;
+  height: 21px;
+  left: 215px;
+  top: 111px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+
+.info {
+  position: absolute;
+  width: 136px;
+  height: 21px;
+  left: 215px;
+  top: 141px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.tel_footer {
+  position: absolute;
+  width: 231px;
+  height: 21px;
+  left: 215px;
+  top: 171px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.team {
+  position: absolute;
+  width: 1600px;
+  height: 648px;
+  left: 0px;
+  top: 1446px;
+  background: #f5f4fa;
+}
+
+.teamcard1 {
+  position: absolute;
+  width: 270px;
+  height: 368px;
+  left: 215px;
+  top: 186px;
+  background: #ffffff;
+  border-radius: 0px 0px 4px 4px;
+}
+
+.img1 {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  left: 215px;
+  top: 186px;
+  border-radius: 0px;
+}
+
+.name1 {
+  position: absolute;
+  width: 129px;
+  height: 19px;
+  left: 70.5px;
+  top: 290px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.job1 {
+  position: absolute;
+  width: 130px;
+  height: 19px;
+  left: 70px;
+  top: 319px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.teamcard2 {
+  position: absolute;
+  width: 270px;
+  height: 368px;
+  left: 515px;
+  top: 186px;
+  background: #ffffff;
+  border-radius: 0px 0px 4px 4px;
+}
+
+.img2 {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  left: 515px;
+  top: 186px;
+  border-radius: 0px;
+}
+
+.name2 {
+  position: absolute;
+  width: 104px;
+  height: 19px;
+  left: 83px;
+  top: 290px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.job2 {
+  position: absolute;
+  width: 147px;
+  height: 19px;
+  left: 61px;
+  top: 319px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.teamcard3 {
+  position: absolute;
+  width: 270px;
+  height: 368px;
+  left: 815px;
+  top: 186px;
+  background: #ffffff;
+  border-radius: 0px 0px 4px 4px;
+}
+
+.img3 {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  left: 815px;
+  top: 186px;
+  border-radius: 0px;
+}
+
+.name3 {
+  position: absolute;
+  width: 129px;
+  height: 19px;
+  left: 70.5px;
+  top: 290px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.job3 {
+  position: absolute;
+  width: 130px;
+  height: 19px;
+  left: 70px;
+  top: 319px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.teamcard4 {
+  position: absolute;
+  width: 270px;
+  height: 368px;
+  left: 1115px;
+  top: 186px;
+  background: #ffffff;
+  border-radius: 0px 0px 4px 4px;
+}
+
+.img4 {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  left: 1115px;
+  top: 186px;
+  border-radius: 0px;
+}
+
+.name4 {
+  position: absolute;
+  width: 145px;
+  height: 19px;
+  left: 62.5px;
+  top: 290px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.job4 {
+  position: absolute;
+  width: 130px;
+  height: 19px;
+  left: 70px;
+  top: 319px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.teamname {
+  position: absolute;
+  width: 264px;
+  height: 42px;
+  left: 668px;
+  top: 94px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.work {
+  position: absolute;
+  width: 1170px;
+  height: 386px;
+  left: 215px;
+  top: 966px;
+}
+
+.boximg1 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  top: 92px;
+  mix-blend-mode: normal;
+}
+
+.boximg2 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 400px;
+  top: 92px;
+  mix-blend-mode: normal;
+}
+
+.boximg3 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 800px;
+  top: 92px;
+  mix-blend-mode: normal;
+}
+
+.worktitle{
+position: absolute;
+width: 366px;
+height: 42px;
+left: 398px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
+
+.premain{
+position: absolute;
+width: 1170px;
+height: 98px;
+left: 215px;
+top: 774px;
+}
+
+.feature1{
+position: absolute;
+width: 270px;
+height: 98px;
+}
+
+.sectiontitle1{
+position: absolute;
+width: 270px;
+height: 16px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;
+}
+
+.sectioninfo1{
+position: absolute;
+width: 270px;
+height: 72px;
+top: 26px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: #757575;
+}
+
+.feature2{
+position: absolute;
+width: 270px;
+height: 74px;
+left: 300px;
+}
+
+.sectiontitle2{
+position: absolute;
+width: 270px;
+height: 16px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;
+}
+
+.sectioninfo2{
+position: absolute;
+width: 270px;
+height: 48px;
+top: 26px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: #757575;
+}
+
+.feature3{
+position: absolute;
+width: 270px;
+height: 74px;
+left: 600px;
+}
+
+.sectiontitle3{
+position: absolute;
+width: 270px;
+height: 16px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;
+}
+
+.sectioninfo3{
+position: absolute;
+width: 270px;
+height: 48px;
+top: 26px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: #757575;
+}
+
+.feature4{
+position: absolute;
+width: 270px;
+height: 98px;
+left: 900px;
+}
+
+.sectiontitle4{
+position: absolute;
+width: 270px;
+height: 16px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;
+}
+
+.sectioninfo4{
+position: absolute;
+width: 270px;
+height: 72px;
+top: 26px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: #757575;
+}
+
+main{
+position: absolute;
+width: 1600px;
+height: 600px;
+left: 0px;
+top: 80px;
+background: #2f303a;
+}
+
+.title{
+position: absolute;
+width: 696px;
+height: 120px;
+left: 452px;
+top: 200px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 60px;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color: #ffffff;
+}
+
+.button{
+position: absolute;
+width: 216px;
+height: 50px;
+left: 692px;
+top: 360px;
+background: #2196f3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+}
+
+.textbutton{
+position: absolute;
+width: 152px;
+height: 30px;
+left: 724px;
+top: 355px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+color: #ffffff;
+}
+
+header{
+position: absolute;
+width: 1600px;
+height: 80px;
+left: 0px;
+top: 0px;
+background: #ffffff;
+}
+
+.line{
+position: absolute;
+width: 1600px;
+height: 0px;
+left: 0px;
+top: 80px;
+border: 1px solid #ececec;
+}
+
+.WebStudio_header{
+position: absolute;
+width: 145px;
+height: 31px;
+left: 215px;
+top: 7px;
+font-family: "Raleway";
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+letter-spacing: 0.03em;
+color: #2196f3;
+}
+
+.menunav{
+position: absolute;
+width: 281px;
+height: 16px;
+left: 453px;
+top: 32px;
+}
+
+.studio{
+position: absolute;
+width: 45px;
+height: 16px;
+text-decoration: none;
+font-family: "Roboto";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: #2196f3;
+}
+
+.portfolio{
+position: absolute;
+width: 72px;
+height: 16px;
+left: 95px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: #212121;
+}
+
+.contacts{
+position: absolute;
+width: 64px;
+height: 16px;
+left: 217px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: #212121;
+}
+
+.email{
+position: absolute;
+width: 135px;
+height: 16px;
+left: 1078px;
+top: 20px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: #2196f3;
+}
+
+.tel_header{
+position: absolute;
+width: 122px;
+height: 16px;
+left: 1263px;
+top: 20px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: #757575;
+}
+
+.finger1{
+position: absolute;
+width: 16px;
+height: 16px;
+left: 480px;
+top: 49px;
+background: #000000;
+}
+
+.finger2{
+position: absolute;
+width: 16px;
+height: 16px;
+left: 1107px;
+top: 51px;
+background: #000000;
+}
