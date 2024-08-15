@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,800;1,800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;800;900&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;800;900&display=swap);
 
 body {
   position: relative;
@@ -120,7 +121,7 @@ span {
 
 .name1 {
   position: absolute;
-  width: 129px;
+  width: 139px;
   height: 19px;
   left: 70.5px;
   top: 290px;
@@ -136,7 +137,7 @@ span {
 
 .job1 {
   position: absolute;
-  width: 130px;
+  width: 140px;
   height: 19px;
   left: 70px;
   top: 319px;
@@ -222,7 +223,7 @@ span {
 
 .name3 {
   position: absolute;
-  width: 129px;
+  width: 139px;
   height: 19px;
   left: 70.5px;
   top: 290px;
@@ -238,7 +239,7 @@ span {
 
 .job3 {
   position: absolute;
-  width: 130px;
+  width: 140px;
   height: 19px;
   left: 70px;
   top: 319px;
@@ -273,7 +274,7 @@ span {
 
 .name4 {
   position: absolute;
-  width: 145px;
+  width: 155px;
   height: 19px;
   left: 62.5px;
   top: 290px;
@@ -289,7 +290,7 @@ span {
 
 .job4 {
   position: absolute;
-  width: 130px;
+  width: 140px;
   height: 19px;
   left: 70px;
   top: 319px;
@@ -355,7 +356,7 @@ span {
 
 .worktitle{
 position: absolute;
-width: 366px;
+width: 376px;
 height: 42px;
 left: 398px;
 font-family: "Roboto";
@@ -554,7 +555,7 @@ border-radius: 4px;
 
 .textbutton{
 position: absolute;
-width: 152px;
+width: 162px;
 height: 30px;
 left: 724px;
 top: 355px;
