@@ -251,30 +251,6 @@ This project demonstrates understanding of:
 
 ---
 
-## 🎓 Perfect For Sixth Form Application
-
-This project demonstrates:
-- Understanding of web fundamentals
-- Attention to design and user experience
-- Ability to create professional-looking websites
-- Clean, organized coding practices
-- Responsive design skills
-- Problem-solving with HTML and CSS
-
-When showing this to admissions staff, explain:
-- How you structured the HTML semantically
-- What responsive design means and why it matters
-- Why pure HTML/CSS is valuable
-- What you learned building this project
-
----
-
-## 📞 Questions?
-
-This README should help you understand every aspect of the WebStudio project. Feel free to explore the code and experiment with changes!
-
----
-
 **Created by:** SpeedVlad  
 **Type:** Static Website / Portfolio  
 **Difficulty:** Beginner to Intermediate  
