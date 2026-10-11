@@ -74,7 +74,7 @@ The site presents a fictional web development studio but serves as an excellent 
 WebStudio/
 ├── index.html          # Main HTML file with all content
 ├── styles.css          # Complete styling and animations
-├── images/             # Image assets
+├── imgs/               # Image assets
 │   ├── boximg1, boximg2, boximg3  # Project showcase images
 │   └── img1, img2, img3, img4     # Team member photos
 └── README.md           # This file
@@ -175,7 +175,7 @@ This project demonstrates understanding of:
    - Update project descriptions
 
 ### 2. **Update Images**
-   - Replace images in the `/images` folder
+   - Replace images in the `/imgs` folder
    - Update image paths in HTML
 
 ### 3. **Modify Colors**
